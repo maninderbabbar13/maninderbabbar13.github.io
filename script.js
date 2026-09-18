@@ -1,5 +1,5 @@
 const data = [
-  ["Silver Wave", "aesthetic", "IMG_1120.jpeg"],
+  ["Silver Wave", "aesthetic", "IMG_1120.PNG"],
   ["Lunar Glow", "aesthetic", "IMG_1124 3.jpg"]
 ];
 
